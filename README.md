@@ -1,2 +1,2 @@
-# Java_Sebiz
-All java programs
+# Core Java
+All Core java programs
